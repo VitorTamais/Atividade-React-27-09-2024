@@ -1,0 +1,15 @@
+.App {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .App h1 {
+    font-size: 2.5rem;
+    color: #007bff;
+  }
+  
+  .App p {
+    font-size: 1.2rem;
+    margin-top: 20px;
+  }
+  
